@@ -4,7 +4,7 @@ Kullanıcının seçtiği kıyafet rengine göre, o renkle uyumlu olabilecek di�
 
 Program, kullanıcının seçtiği ana renge göre kıyafet üzerinde kullanılabilecek tamamlayıcı renkleri önerir.
 
-Nasıl Kullanılır?
+-Nasıl Kullanılır?
 1. Python'un bilgisayarınızda kurulu olduğundan emin olun.
 2. Program dosyasını çalıştırın.
 3. Ekranda gösterilen renklerden birini seçin.
