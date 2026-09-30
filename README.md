@@ -7,10 +7,8 @@ Program, kullanıcının seçtiği ana renge göre kıyafet üzerinde kullanıla
 -Özellikler
 - Kullanıcıya farklı renk seçenekleri sunar.
 - Seçilen renge uygun renkleri önerir.
-- Kıyafette önerilen renklerin detay olarak kullanılabileceğini belirtir.
 - Program while döngüsü sayesinde tekrar tekrar kullanılabilir.
 - 0 seçeneği ile programdan çıkılabilir.
-- Hatalı girişlerde kullanıcıyı bilgilendirir.
 
 -Nasıl Kullanılır?
 1. Python'un bilgisayarınızda kurulu olduğundan emin olun.
