@@ -27,14 +27,14 @@ A simple Python program that suggests colors that may go well with the clothing 
 
 The program recommends complementary colors that can be used in an outfit based on the main color selected by the user.
 
-Features
+-Features
 
 - Offers the user different color options.
 - Suggests colors that match the selected color.
 - Can be used repeatedly thanks to a "while" loop.
 - The program can be exited by selecting option "0".
 
-How to Use
+-How to Use
 
 1. Make sure Python is installed on your computer.
 2. Run the program file.
